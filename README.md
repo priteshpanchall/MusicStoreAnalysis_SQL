@@ -16,4 +16,4 @@ The some insights from this project are as follows:
 
 ⭕ The average price of an album is $1.
 
-⭕ The most popular country for music purchases is the United States.
+⭕ The most popular country for music purchases is the United States with $1040.49.
