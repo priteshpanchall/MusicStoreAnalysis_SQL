@@ -8,11 +8,11 @@ This analysis will provide great insight to the stake holders to take right and 
 
 The some insights from this project are as follows:
 
-⭕ The most popular genre of music is "Rock".
+⭕ The most popular genre of music is "Rock" and most of the rock music written by Led Zeppelin.
 
-⭕ The most popular artist is "Queens".
+⭕ Prague has the best customer and Company has earned the most sum (Invoice total of the city) of money that has been made by the company.
 
-⭕ The most popular song is "War Pigs".
+⭕ The most popular song is "War Pigs" and the most popular artist is "Queens".
 
 ⭕ The average price of an album is $1.
 
